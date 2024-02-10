@@ -67,7 +67,7 @@
 
 * Baixar o arquivo do projeto em zip pelo link do GitHub fornecido ou abrir o Visual Studio Code e use a opção "Clone or checkout code" para clonar o repositório.
 
-> - Link GitHub React(VS Code):
+> - Link GitHub React(VS Code): [https://github.com/GabrielJP-dev/DittarefaReact]
 
 > _**Lembrando que é imprescindível baixar ou clonar o conteudo do repositorio para o funcionamento correto da aplicação**_
 
